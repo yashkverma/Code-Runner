@@ -19,6 +19,7 @@ Enter n in the latter option **terminates** the Code Runner session.
 ### Compatibility:
 - Currently only C language is supported by the Code Runner.
 - The Code Runner only works in Windows.
+- May not work on 32-bit systems however it depends on the version of MinGW installed (32 or 64 bit).
 ### Additional Note:
 Running Code Runner with .exe file is recommended as you might face some problem with the .bat file.
 ### Future Developoment:
