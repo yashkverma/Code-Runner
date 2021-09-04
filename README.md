@@ -1,4 +1,4 @@
-# Code-Runner
+# Code-Runner v1.2
 ### Project Briefing:
 
 Code Runner is a program that compiles a source code using an external compiler (like MinGW etc.) and executes it.
