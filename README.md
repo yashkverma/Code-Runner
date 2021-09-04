@@ -12,7 +12,6 @@ Enter n in the latter option **terminates** the Code Runner session.
 - Provides clean and easy to read output/input-prompt without any unnecessary lines cluttering the terminal
 - Lightweight
 - Easy to use
-
 ### Built using:
 - Batch Programming
 ### Requirements:
@@ -20,6 +19,7 @@ Enter n in the latter option **terminates** the Code Runner session.
 ### Compatibility:
 - Currently only C language is supported by the Code Runner.
 - The Code Runner only works in Windows.
-
+### Additional Note:
+Running Code Runner with .exe file is recommended as you might face some problem with the .bat file.
 ### Future Developoment:
  As of now only C language is supported but soon I will upgrade it to support C++ and other languages as well. And also possibly add a GUI.
